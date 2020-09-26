@@ -1,0 +1,9 @@
+new_sites:
+  eluniversal:
+    url: https://www.eluniversal.com.mx/
+    queries:
+      homepage_article_links: 'ce6-Tipo1_Titulo a'
+  elpais:
+    url: http://www.elpais.com/
+    queries:
+      homepage_article_links: '.ce2-Tipo1_Titulo a'
